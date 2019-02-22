@@ -10,3 +10,6 @@ You would use a fork to copy someones repository to your own within github, a cl
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 You can check and comapre changes to your local repository offline.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+By updating files and sending them by e mail. This would be simpler but keeping track of changes would not. Working in a big team would also be tougher.
