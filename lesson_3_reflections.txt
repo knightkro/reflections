@@ -13,3 +13,6 @@ You can check and comapre changes to your local repository offline.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 By updating files and sending them by e mail. This would be simpler but keeping track of changes would not. Working in a big team would also be tougher.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+You can make changes in a separate branch to keep th emaster branch in a working state. This is more complex.
